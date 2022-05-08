@@ -19,11 +19,11 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites - git clone git@github.com:Addisu87/form-validation.git
 
 ### Setup
 
-### Install
+### Install - npm
 
 ### Usage
 
@@ -35,9 +35,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Addisu Haile**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Addisu87](https://github.com/Addisu87)
+- Twitter:[@AddisuTedla](https://twitter.com/AddisuTedla)
+- LinkedIn: [Addisu Tedla](https://www.linkedin.com/in/addisu-tedla-8b4a10143/)
 
 ## 🤝 Contributing
 
